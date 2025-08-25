@@ -1,0 +1,23 @@
+Devop's intro:
+devop's=development+operations
+it is a method.
+the one who develop the code is called developers and one who test and deploy are called operations
+working together instead of working in soils.  
+Without Devops:Developers gives code to ops team. they manually deploy-->bugs happens-->delays
+with Devops:code is automatically tested and development. customers-->get updates faster and safely
+DevOps Helps You:
+>release features faster
+>Fix Bugs Quickly
+>Automate repetitive task
+Devops Life Cycle:
+plan: define what to build
+Develop: Write the code
+Build: Compile code into deployable form
+Test: Checks for bugs automatically
+Release: approve the build for deployment
+Deploy: push apps to server or app store
+Operate: keep app running, fixing issues
+Monitor: analyze performance and feedback
+GitHub Basics:
+Git: Version control system
+GitHub:Online platform to store git projects.
