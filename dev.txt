@@ -1,4 +1,4 @@
-Devop's intro:
+Devop's introduction:
 devop's=development+operations
 it is a method.
 the one who develop the code is called developers and one who test and deploy are called operations
